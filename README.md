@@ -22,6 +22,8 @@ To configure the program, open the constants.json file and set the following con
 
 Make sure to replace "YOUR_AUTHORIZATION_TOKEN", "YOUR_SESSION_TOKEN", "YOUR_SCHOOL_NAME", "YOUR_USER_ID", and "YOUR_LANGUAGE_CODE" with your actual Rosetta Stone credentials
 
+The Authorization Token, Session Token, and User Id can be taken from the network request when the main page loads. Look for a file titled graphql
+
 ## Usage
 
 To run the program and automatically complete lessons, use the following command:
