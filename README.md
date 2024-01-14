@@ -26,13 +26,31 @@ The Authorization Token, Session Token, and User Id can be taken from the networ
 
 ## Usage
 
-To run the program and automatically complete lessons, use the following command:
+TO BEGIN
+Make sure to install nodejs from here https://nodejs.org.
 
-```bash
-node index.js
-```
+### Download files
+This is a video showing how to download the files from github and open the ones you need in a text editor
 
-The program will start working and simulate lesson completions. Please be patient and wait for it to finish its requests. It should only take a few moments.
+https://github.com/CheeseDanish1/Rosetta-Stone-Hack/assets/65871181/ac35f1b7-2daa-498f-8a59-e7fbe4147024
+
+### Filling Constants.json
+
+https://github.com/CheeseDanish1/Rosetta-Stone-Hack/assets/65871181/1d907c8f-5430-4b70-8fcd-947d35ab44db
+
+
+### Percent Correct
+By default, the program randomly does between 89% to 100% correct. If you want to change it follow this video
+
+https://github.com/CheeseDanish1/Rosetta-Stone-Hack/assets/65871181/cc817b15-a809-4171-9f12-6b555ca86ef2
+
+### Running program
+This video shows you how to run the program
+
+https://github.com/CheeseDanish1/Rosetta-Stone-Hack/assets/65871181/9e44b644-60a0-4507-a24b-fc96086f7edd
+
+
+If anyone has further questions watch the videos and then if they persist open an issue. All explanations used firefox.
 
 ## Program Files
 
@@ -43,3 +61,4 @@ The program will start working and simulate lesson completions. Please be patien
 ## Disclaimer
 
 Use this program responsibly and in accordance with Rosetta Stone's terms and conditions. Automated completion of lessons may violate their policies. The I take no responsibility for any misuse or consequences that may arise from using this software.
+
