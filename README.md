@@ -39,7 +39,7 @@ https://github.com/CheeseDanish1/Rosetta-Stone-Hack/assets/65871181/ac35f1b7-2da
 https://github.com/CheeseDanish1/Rosetta-Stone-Hack/assets/65871181/1d907c8f-5430-4b70-8fcd-947d35ab44db
 
 
-### Percent Correct
+### Percent Correct (OPTIONAL)
 By default, the program randomly does between 89% to 100% correct. If you want to change it follow this video
 
 https://github.com/CheeseDanish1/Rosetta-Stone-Hack/assets/65871181/cc817b15-a809-4171-9f12-6b555ca86ef2
